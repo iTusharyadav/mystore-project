@@ -1,8 +1,9 @@
-
 <h1 align="center" style="margin-bottom: 0;">MyStore E-Commerce Project 🌐</h1>
+
 ## Overview 🎉
 
 Welcome to **MyStore**! This is a simple React-based e-commerce website where users can browse products, search by category, view detailed product information, and simulate a shopping experience. The app fetches data from the **FakeStore API** to display products, handle user searches, and allow interaction with a product modal for detailed views. 🛍️
+
 
 ## Features 🚀
 
@@ -45,17 +46,12 @@ Welcome to **MyStore**! This is a simple React-based e-commerce website where us
 To run the project locally, use the following command:
 
 ```bash
+npm run dev
 npm start
 ```
 
-The app will launch in your browser at [http://localhost:3000](http://localhost:3000). 🚀
 
-## Technologies Used 🛠️
 
-- **ReactJS** for building the front-end.
-- **TailwindCSS** for styling and responsive design.
-- **React Hooks** for state management (`useState`, `useEffect`).
-- **FakeStore API** for fetching product data.
 
 ## Design Decisions 💡
 
